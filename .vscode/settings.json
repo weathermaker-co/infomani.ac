@@ -1,0 +1,4 @@
+{
+    "ruby.rubocop.executePath": "/home/weathermaker/.rvm/rubies/ruby-2.4.1/bin/ruby",
+    "ruby.rubocop.onSave": true
+}
